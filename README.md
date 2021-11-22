@@ -1,4 +1,4 @@
-# DM6190 Assignment 2: Adversarial Unsupervised Domain Adaptation forCross-modality Cardiac Image Segmentation
+# DM6190 Assignment 2: Adversarial Unsupervised Domain Adaptation for Cross-modality Cardiac Image Segmentation
 
 
 
