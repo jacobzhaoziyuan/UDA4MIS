@@ -1,10 +1,7 @@
-# DM6190 Assignment 2: Adversarial Unsupervised Domain Adaptation for Cross-modality Cardiac Image Segmentation
+# Adversarial Unsupervised Domain Adaptation for Cross-modality Cardiac Image Segmentation
 
 
 
-## Team Member
-* Zhao Ziyuan
-* Ng Han Wei
 
 
 ## Abstract
